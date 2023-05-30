@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Prajwal</h1>
-<h3 align="center">Data Scientist</h3>
+<h1 align="center">Hi 👋, I'm Prajwal C N</h1>
+<h3 align="center">A Data Scientist</h3>
 
-- 🔭 I am currently working on a **Text Summarizer NLP Pipeline**
+- 🔭 I am currently working on a **NLP based Text Summarizer Pipeline**
 
 - 👨‍💻 All of my projects are available at [https://unaklet.squarespace.com/](https://unaklet.squarespace.com/)
 
 - 📝 I regularly write articles on [https://unaklet.squarespace.com/](https://unaklet.squarespace.com/)
 
-- 💬 Ask me about **Data science, ML, AI, Data Engineering, Analytics, Generative AI**
+- 💬 Ask me about **Data science, Machine Learning, Generative AI, Data Engineering**
 
 - 📫 How to reach me **cnprajwal.official@gmail.com**
 
