@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prajwal C N</h1>
 <h3 align="center">A Data Scientist</h3>
 
-- 🔭 I am currently working on a **NLP based Text Summarizer Pipeline**
+- 🔭 I am currently working on a **SynGen - A Synthetic Data Generator Platform for Businesses**
 
 - 👨‍💻 All of my projects are available at [https://unaklet.squarespace.com/](https://unaklet.squarespace.com/)
 
