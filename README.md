@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prajwal C N</h1>
-<h3 align="center">A Data Scientist</h3>
+<h3 align="center">Data Scientist</h3>
 
 - 🔭 I am currently working on a **SynGen - An Enterprise Synthetic Data Generator Platform for Businessess**
 
