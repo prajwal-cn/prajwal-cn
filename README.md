@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Prajwal C N</h1>
 <h3 align="center">A Data Scientist</h3>
 
-- 🔭 I am currently working on a **SynGen - A Synthetic Data Generator Platform for Businesses**
+- 🔭 I am currently working on a **SynGen - An Enterprise Synthetic Data Generator Platform for Businessess**
 
 - 👨‍💻 All of my projects are available at [https://unaklet.squarespace.com/](https://unaklet.squarespace.com/)
 
 - 📝 I regularly write articles on [https://unaklet.squarespace.com/](https://unaklet.squarespace.com/)
 
-- 💬 Ask me about **Data science, Machine Learning, Generative AI, Data Engineering**
+- 💬 Ask me about **Data Science, Machine Learning, Generative AI, Natural Language Processing**
 
-- 📫 How to reach me **cnprajwal.official@gmail.com**
+- 📫 Reach me @ **cnprajwal.official@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/prajwal-c-n/](https://www.linkedin.com/in/prajwal-c-n/)
 
