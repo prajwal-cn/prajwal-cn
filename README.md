@@ -1,7 +1,7 @@
 ![image](https://github.com/prajwal-cn/prajwal-cn/assets/127007794/1dde9382-54b8-432d-a665-7dbf05a12d7d)
 
 
-# Prajwal  |  PJ
+# Prajwal   |   PJ
 
 
 
