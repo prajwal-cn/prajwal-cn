@@ -80,9 +80,9 @@ I've created projects using the Langchain framework, including an Invoice data e
 
 ## `Certifications`
 
-- 🎖️ [Microsoft Azure Certified Data Scientist] 
-- 🎖️ [Certified TensorFlow Developer]
-- 🎖️ [Deep Learning Specialization]
-- 🎖️ [Machine Learning Operations Specialization]
-- 🎖️ [LLMOps Specialization (CometML)]
-- 🎖️ [Generative Artificial Intelligence Specialization]
+- 🎖️ Microsoft Azure Certified Data Scientist - Microsoft
+- 🎖️ Certified TensorFlow Developer - Deeplearning.ai
+- 🎖️ Deep Learning Specialization - Deeplearning.ai
+- 🎖️ Machine Learning Operations Specialization - Deeplearning.ai
+- 🎖️ LLMOps Specialization - Comet ML
+- 🎖️ Generative Artificial Intelligence Specialization - Google 
